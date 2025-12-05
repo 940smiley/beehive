@@ -50,8 +50,6 @@ require (
 	github.com/jpillora/backoff v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.6 // indirect
 	github.com/kelvins/sunrisesunset v0.0.0-20170601204625-14f1915ad4b4
-	github.com/kevinburke/go-bindata v3.22.0+incompatible // indirect
-	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/kr/pretty v0.1.0
 	github.com/kurrik/oauth1a v0.0.0-20151019171716-cb1b80e32dd4 // indirect
 	github.com/lucasb-eyer/go-colorful v1.0.3
@@ -85,7 +83,7 @@ require (
 	github.com/shuheiktgw/go-travis v0.1.10-0.20190502100712-2d0b3e9898f0
 	github.com/simplepush/simplepush-go v0.0.0-20170307205831-8980e96b7b02
 	github.com/simplereach/timeutils v1.2.0 // indirect
-	github.com/sirupsen/logrus v1.4.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/smartystreets/assertions v0.0.0-20190401211740-f487f9de1cd3 // indirect
 	github.com/smartystreets/goconvey v0.0.0-20190330032615-68dc04aab96a // indirect
 	github.com/sromku/go-gitter v0.0.0-20170828210750-70f7030a94a6
