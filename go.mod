@@ -16,7 +16,7 @@ require (
 	github.com/cloudflare/cloudflare-go v0.10.6
 	github.com/coreos/go-systemd v0.0.0-20190719114852-fd7a80b32e1f
 	github.com/deckarep/gosx-notifier v0.0.0-20180201035817-e127226297fb
-	github.com/emicklei/go-restful v2.9.3+incompatible
+	github.com/emicklei/go-restful v2.16.0+incompatible
 	github.com/flashmob/go-guerrilla v1.6.1
 	github.com/fluffle/goirc v1.0.1
 	github.com/fsnotify/fsnotify v1.4.7
