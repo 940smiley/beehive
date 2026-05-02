@@ -1,6 +1,6 @@
 module github.com/muesli/beehive
 
-go 1.23.0
+go 1.24.0
 
 require (
 	github.com/ChimeraCoder/anaconda v2.0.0+incompatible
@@ -56,8 +56,8 @@ require (
 	github.com/simplepush/simplepush-go v0.0.0-20170307205831-8980e96b7b02
 	github.com/sirupsen/logrus v1.4.1
 	github.com/sromku/go-gitter v0.0.0-20170828210750-70f7030a94a6
-	golang.org/x/crypto v0.0.0-20190426145343-a29dc8fdc734
-	golang.org/x/oauth2 v0.27.0
+	golang.org/x/crypto v0.45.0
+	golang.org/x/oauth2 v0.0.0-20190402181905-9f3314589c9a
 	gopkg.in/yaml.v2 v2.3.0
 	jaytaylor.com/html2text v0.0.0-20200412013138-3577fbdbcff7
 	layeh.com/gumble v0.0.0-20180508205105-1ea1159c4956
@@ -83,6 +83,7 @@ require (
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
 	github.com/golang/mock v1.2.0 // indirect
 	github.com/golang/protobuf v1.3.1 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20190430165422-3e4dfb77656c // indirect
 	github.com/gorilla/websocket v1.4.0 // indirect
@@ -124,10 +125,11 @@ require (
 	github.com/wcharczuk/go-chart/v2 v2.1.0 // indirect
 	github.com/xrash/smetrics v0.0.0-20200730060457-89a2a8a1fb0b // indirect
 	golang.org/x/image v0.0.0-20200927104501-e162460cd6b5 // indirect
-	golang.org/x/net v0.0.0-20191014212845-da9a3fd4c582 // indirect
-	golang.org/x/sys v0.0.0-20191120155948-bd437916bb0e // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/net v0.47.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/text v0.31.0 // indirect
 	golang.org/x/time v0.0.0-20190921001708-c4c64cad1fd0 // indirect
+	google.golang.org/appengine v1.5.0 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/ini.v1 v1.42.0 // indirect
