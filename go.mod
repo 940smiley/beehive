@@ -1,6 +1,6 @@
 module github.com/muesli/beehive
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/ChimeraCoder/anaconda v2.0.0+incompatible
@@ -56,7 +56,7 @@ require (
 	github.com/simplepush/simplepush-go v0.0.0-20170307205831-8980e96b7b02
 	github.com/sirupsen/logrus v1.8.3
 	github.com/sromku/go-gitter v0.0.0-20170828210750-70f7030a94a6
-	golang.org/x/crypto v0.45.0
+	golang.org/x/crypto v0.52.0
 	golang.org/x/oauth2 v0.0.0-20190402181905-9f3314589c9a
 	gopkg.in/yaml.v2 v2.3.0
 	jaytaylor.com/html2text v0.0.0-20200412013138-3577fbdbcff7
@@ -124,9 +124,9 @@ require (
 	github.com/wcharczuk/go-chart/v2 v2.1.0 // indirect
 	github.com/xrash/smetrics v0.0.0-20200730060457-89a2a8a1fb0b // indirect
 	golang.org/x/image v0.0.0-20200927104501-e162460cd6b5 // indirect
-	golang.org/x/net v0.47.0 // indirect
-	golang.org/x/sys v0.38.0 // indirect
-	golang.org/x/text v0.31.0 // indirect
+	golang.org/x/net v0.54.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	golang.org/x/time v0.0.0-20190921001708-c4c64cad1fd0 // indirect
 	google.golang.org/appengine v1.5.0 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
